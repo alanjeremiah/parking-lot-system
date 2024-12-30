@@ -1,0 +1,16 @@
+# Maven target directory (build artifacts)
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+
+# Test reports and coverage files
+surefire-reports/
+jacoco.exec
